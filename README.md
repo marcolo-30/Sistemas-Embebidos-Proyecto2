@@ -14,6 +14,6 @@ El proyecto dos busca entender el funcionamiento de hilos, utilizandolo sobre le
 | Captura datos I2C | [I2C](https://github.com/marcolo-30/Sistemas-Embebidos-Proyecto2/blob/main/I2C.py) |
 | Captura datos 1 Wire | [1-wire](https://github.com/marcolo-30/Sistemas-Embebidos-Proyecto2/blob/main/1-wire.py) |
 | Hilos |[Main hilos](https://github.com/marcolo-30/Sistemas-Embebidos-Proyecto2/blob/main/Hilos.py) |
-| Informe |[Proyecto2.pdf](https://github.com/marcolo-30/Sistemas-Embebidos-Proyecto2/blob/main/Proyecto_2_Sistemas_Embebidos) |
+| Informe |[Proyecto2.pdf](https://github.com/marcolo-30/Sistemas-Embebidos-Proyecto2/blob/main/Proyecto_2_Sistemas_Embebidos.pdf) |
 
 
