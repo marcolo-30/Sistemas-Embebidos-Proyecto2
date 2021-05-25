@@ -11,8 +11,8 @@ El proyecto dos busca entender el funcionamiento de hilos, utilizandolo sobre le
 
 | Lenguaje      | Programa |
 | ------------- | ------------- |
-| Captura datos I2C | [Wiringpi](https://github.com/) |
-|Captura datos 1 Wire | [Bash](https://github.com/marcolo-30/Sistemas-Embebidos-Proyecto2/blob/main/onewire.sh) |
+| Captura datos I2C | [I2C python](https://github.com/marcolo-30/Sistemas-Embebidos-Proyecto2/blob/main/I2C.py) |
+|Captura datos 1 Wire | [1-wire Bash](https://github.com/marcolo-30/Sistemas-Embebidos-Proyecto2/blob/main/onewire.sh) |
 | C/C++, libreria BCM |[BCM](https://github.com/) |
 | Python | [Python](https://github.com/)  |
 
