@@ -2,7 +2,7 @@
 #usar python 2.7
 import time, serial, queue, threading
 import statistics
-import pt2_i2c as I2C
+import I2C
 import subprocess #o usar "import punto2_1" para usar código desde python para temperatura
 
 ser = None
